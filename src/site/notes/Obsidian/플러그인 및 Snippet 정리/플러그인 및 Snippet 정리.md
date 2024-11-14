@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/snippet/snippet/","noteIcon":"","created":"2024-10-27T02:33:48.829+09:00","updated":"2024-11-14T13:39:10.355+09:00"}
+{"dg-publish":true,"permalink":"/obsidian/snippet/snippet/","noteIcon":"","created":"2024-10-27T02:33:48.829+09:00","updated":"2024-11-14T13:44:16.176+09:00"}
 ---
 
 
@@ -25,7 +25,7 @@ WIP
 
 [플러그인 열기](obsidian://show-plugin?id=custom-sort)
 - 폴더와 파일 정렬을 원하는 대로 설정할 수 있게 하는 플러그인
-- 정렬 방법은 2가지 ([자세히 보기](파일과%20폴더의%20순서를%20변경하는%20Custom%20File%20Explorer%20Sorting%20플러그인.md))
+- 정렬 방법은 2가지 ([자세히 보기](https://kaminik.tistory.com/entry/%ED%8C%8C%EC%9D%BC%EA%B3%BC-%ED%8F%B4%EB%8D%94%EC%9D%98-%EC%88%9C%EC%84%9C%EB%A5%BC-%EB%B3%80%EA%B2%BD%ED%95%98%EB%8A%94-Custom-File-Explorer-Sorting-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8))
 	- `sortspec.md` 파일에 정렬 방법을 명시
 		- `sortspec.md`가 있는 폴더와 그 하위 폴더에 적용됨
 		- Folder Note 플러그인을 사용할 경우 `sortspec.md` 대신 해당 폴더의 노트에 대신 작성해도 적용됨
@@ -157,7 +157,7 @@ WIP
 [플러그인 열기](obsidian://show-plugin?id=obsidian-advanced-uri)
 - 외부 애플리케이션에서 옵시디언을 조작할 수 있게 하는 옵시디언의 URI의 확장 플러그인
 - 옵시디언이 기본 제공하는 URI의 제한적인 기능에 추가로 더 복잡한 작업 가능
-- [사용법 문서(한국어)](외부에서%20노트를%20조작할%20수%20있는%20Advanced%20URI%20플러그인.md)
+- [사용법 문서(한국어)](https://kaminik.tistory.com/entry/%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C-%EB%85%B8%ED%8A%B8%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-Advanced-URI-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8)
 - [공식 문서](https://publish.obsidian.md/advanced-uri-doc/Home)
 
 ### 1.4.2 Commander
