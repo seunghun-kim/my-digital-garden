@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian/플러그인 및 Snippet 정리.md","permalink":"/obsidian/snippet/","noteIcon":"","created":"2024-10-27T02:33:48.829+09:00","updated":"2024-11-14T13:53:56.379+09:00"}
+{"dg-publish":true,"dg-path":"Obsidian/플러그인 및 Snippet 정리.md","permalink":"/obsidian/snippet/","noteIcon":"","created":"2024-11-25T23:43:46.487+09:00","updated":"2024-11-30T22:53:27.909+09:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 ### 1.1.1 Calendar (⭐)
 [플러그인 열기](obsidian://show-plugin?id=calendar)
 - 캘린더 Pane을 열 수 있음
-  ![|300](/img/user/Obsidian/attachments/플러그인-20241106173659903.webp)
+  ![|300](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106173659903.webp)
 - 날짜를 누르면 해당하는 날의 Daily Note로 이동/생성
 - 옵션에서 week number를 켜면 Weekly Note 사용 가능
 ### 1.1.2 Bartender
@@ -30,7 +30,7 @@ WIP
 		- `sortspec.md`가 있는 폴더와 그 하위 폴더에 적용됨
 		- Folder Note 플러그인을 사용할 경우 `sortspec.md` 대신 해당 폴더의 노트에 대신 작성해도 적용됨
 	- 북마크 후 북마크 내에서 순서를 변경
-- 유사 플러그인: [Bartender](#1.2%20Bartender)
+- 유사 플러그인: [Bartender](#1.1.2%20Bartender)
 ### 1.1.4 Folder Notes (⭐⭐|M)
 > [!INFO] MAKE.md
 > MAKE.md 플러그인 기본 기능
@@ -56,7 +56,7 @@ WIP
 [플러그인 열기](obsidian://show-plugin?id=table-editor-obsidian)
 - 표 수정을 쉽게 해주는 플러그인
 - 기능
-  ![|300](/img/user/Obsidian/attachments/플러그인-20241106173000516.webp)
+  ![|300](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106173000516.webp)
 	- Auto formatting
 	- Excel-like table navigation (tab/enter between cells and rows)
 	- [Spreadsheet formulas!](https://github.com/tgrosinger/advanced-tables-obsidian/blob/main/docs/help.md#using-formulas-in-markdown-tables)(배우기 어려워서 못 쓰고 있음)
@@ -68,12 +68,12 @@ WIP
 [플러그인 열기](obsidian://show-plugin?id=code-styler)
 - 코드 블록을 커스터마이징할 수 있음
 - 색상 테마
-  ![|500](/img/user/Obsidian/attachments/플러그인-20241106174246166.webp)
+  ![|500](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106174246166.webp)
 - inline code block 스타일
-  ![|200](/img/user/Obsidian/attachments/플러그인-20241106180457468.webp)
+  ![|200](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106180457468.webp)
 - 코드 블록 폴딩
 - 라인 단위 하이라이팅
-  ![](/img/user/Obsidian/attachments/플러그인-20241106181543385.webp)
+  ![](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106181543385.webp)
 ### 1.2.3 Editing Toolbar (⭐)
 [플러그인 보기](obsidian://show-plugin?id=editing-toolbar)
 - 에디터 상단에 텍스트 수정 툴바를 띄워줌
@@ -113,7 +113,7 @@ WIP
 [플러그인 열기](obsidian://show-plugin?id=oz-clear-unused-images)
 - 사용되지 않는 이미지들과 파일들을 삭제
 - 이미지, 파일 삭제를 구분해서 실행할 수 있으며, 각각의 커맨드 존재
-  ![](/img/user/Obsidian/attachments/플러그인-20241106174008211.webp)
+  ![](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106174008211.webp)
 
 > [!Warning] 주의사항
 > 확인 과정 없이 바로 삭제해버리므로 사용 전 Vault를 백업해놓아야 함
@@ -151,7 +151,7 @@ WIP
 	- [Import from Roam Research](https://help.obsidian.md/import/roam)
 	- [Import from HTML files](https://help.obsidian.md/import/html)
 	- [Import from Markdown files](https://help.obsidian.md/import/markdown)
-- [Image Converter](#3.4%20Image%20Converter%20(⭐⭐⭐)), [Commander](#Commander)와 조합해서 불러온 뒤 자동으로 첨부된 이미지를 압축하는 스크립트 작성 가능해 보임
+- [Image Converter](#1.3.4%20Image%20Converter%20(⭐⭐⭐)), [Commander](#1.4.2%20Commander)와 조합해서 불러온 뒤 자동으로 첨부된 이미지를 압축하는 스크립트 작성 가능해 보임
 ## 1.4 자동화 / 외부 툴
 ### 1.4.1 Advanced URI (⭐)
 [플러그인 열기](obsidian://show-plugin?id=obsidian-advanced-uri)
@@ -181,9 +181,9 @@ WIP
 - Options -> Appearance -> CSS Snippets 토글을 커맨드화시킴
 #### 1.4.4.1 사용 예시
 - 현재 Vault에는 4종류의 Snippet이 있음
-  ![](/img/user/Obsidian/attachments/플러그인-20241106172641583.webp)
+  ![](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106172641583.webp)
 - `hide-folder-and-files` Snippet을 단축키로 토글하기 위해, Options -> Hotkeys에서 `Snippet Commands: Toggle hide-folder-and-files`에 단축키를 바인딩
-  ![](/img/user/Obsidian/attachments/플러그인-20241106172731266.webp)
+  ![](/img/user/Obsidian/플러그인 및 Snippet 정리/attachments/플러그인-20241106172731266.webp)
 - 이제 옵션 창을 켜지 않고도 단축키를 누르면 `hide-folder-and-files` 스니펫을 토글할 수 있음
 ### 1.4.5 Pandoc (⭐)
 [플러그인 보기](obsidian://show-plugin?id=obsidian-pandoc)
