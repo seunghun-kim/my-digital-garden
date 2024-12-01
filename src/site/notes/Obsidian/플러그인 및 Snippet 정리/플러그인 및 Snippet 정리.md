@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Obsidian/플러그인 및 Snippet 정리.md","permalink":"/obsidian/snippet/","noteIcon":"","created":"2024-11-25T23:43:46.487+09:00","updated":"2024-11-30T22:53:27.909+09:00"}
+{"dg-publish":true,"dg-path":"Obsidian/플러그인 및 Snippet 정리.md","permalink":"/Obsidian/플러그인 및 Snippet 정리/","noteIcon":"","created":"2024-11-25T23:43:46.487+09:00","updated":"2024-11-30T22:53:27.909+09:00"}
 ---
 
 
